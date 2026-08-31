@@ -1,198 +1,159 @@
-# Potato Terms of Service
+# Potato — Terms of Service
 
-**Effective Date**: May 8, 2026  
-**Last Updated**: April 26, 2026
+**Last updated: August 31, 2026**
+**Effective date: July 11, 2026**
 
 ---
 
-## 1. Introduction
+## Article 1 (Purpose)
 
-Welcome to Potato. These Terms of Service ("Terms") govern your access to and use of the Potato mobile application ("Service") provided by NFIX ("Company", "we", "us", or "our"). By accessing or using the Service, you agree to be bound by these Terms.
+These Terms govern the rights, obligations, and responsibilities between NFIX ("the Company") and users regarding the use of the AI-based investment information application "Potato" ("the Service").
 
-If you do not agree to these Terms, please do not use the Service.
+## Article 2 (Definitions)
 
-## 2. Definitions
+1. **Service** means the AI-based investment information application provided by the Company.
+2. **User** means any member or non-member who uses the Service under these Terms.
+3. **Member** means a person who has been granted an account and uses the Service on an ongoing basis.
+4. **Non-member (guest)** means a person who tries the Service without registering. A guest may try **one AI debate (up to 6 turns)**; member-only features such as saved conversation history and subscriptions are unavailable.
+5. **AI Debate** means the feature in which three AI characters (**Gee, Clo, and Gem**) each analyze and debate the user's question, and the mascot "Potato" summarizes a conclusion.
+6. **Paid Service** means Pro and Premium subscriptions and other services the Company provides for a fee.
+7. **Support chatbot** means a feature where an AI answers questions about how to use the Service.
 
-- **"Service"** refers to the Potato mobile application and any related services provided by NFIX.
-- **"User"** or **"you"** refers to any individual who accesses or uses the Service.
-- **"Member"** refers to a user who has registered an account.
-- **"Guest User"** refers to a user accessing the Service without registration.
-- **"AI Debate"** refers to the feature wherein three AI models (Bull, Bear, Owl) analyze and discuss user questions.
-- **"Paid Service"** refers to Pro and Premium subscription tiers.
+## Article 3 (Effect and Amendment of Terms)
 
-## 3. Eligibility
+1. These Terms take effect by being posted within the Service or otherwise notified to users.
+2. The Company may amend these Terms within the limits of applicable law. Amendments will be announced at least 7 days before the effective date (30 days in advance for changes unfavorable to users), specifying the effective date and reason.
+3. If a user continues to use the Service after the effective date of amended Terms, the user is deemed to have agreed to them. A user who does not agree may terminate the agreement by deleting their account.
 
-1. You must be at least 14 years old to use the Service.
-2. By using the Service, you represent and warrant that you meet this age requirement and have the legal capacity to enter into these Terms.
-3. If you are between 14 and the age of legal majority in your jurisdiction, you confirm that you have parental or guardian consent.
+## Article 4 (Provision of the Service)
 
-## 4. Account Registration
+1. The Company provides the following:
+   - Investment-related debate and information using three AI characters (Gee, Clo, Gem)
+   - Personalized information such as portfolio diagnosis, weakness advice, watchlist picks, and deep reports
+   - Conversation history, market information, and news
+   - **Image-based portfolio recognition (OCR)** and image attachments in AI debates
+   - **Brokerage account linking** (read-only lookup of holdings and cash using an Open API key the user issues themselves)
+   - **Support chatbot** for usage guidance
+   - **Referral rewards**, attendance and mission rewards
+   - Other services developed or partnered by the Company
+2. The Service is provided 24 hours a day in principle, but may be suspended in whole or in part due to maintenance, server expansion, equipment failure, or failure of external AI/infrastructure services.
 
-1. To access full features, you must register an account using Google or Apple OAuth authentication.
-2. You agree to provide accurate, current, and complete information during registration.
-3. You are responsible for maintaining the confidentiality of your account and for all activities under your account.
-4. We reserve the right to suspend or terminate accounts that violate these Terms.
+## Article 5 (Core Nature of the Service — Not Investment Solicitation)
 
-## 5. The Service — Not Investment Advice
+1. The Service provides **reference materials for informational and educational purposes only**. It does not solicit the purchase or sale of any specific financial product, nor does it provide investment advisory or discretionary investment services under applicable financial law.
+2. All content, including AI debates, picks, and diagnoses, is AI-generated and may be inaccurate or delayed. The Company is not liable for any direct or indirect damages arising therefrom.
+3. **All investment decisions and their consequences are solely the responsibility of the user.**
 
-**IMPORTANT NOTICE**: The Service provides educational and informational content related to investments. It is **not** investment advice, financial advice, brokerage, or any form of regulated financial service.
+## Article 6 (AI and Third-Party Services)
 
-1. All AI analyses, consensus opinions, and scenarios provided through the Service are for informational and educational purposes only.
-2. The Service does not constitute a recommendation to buy, sell, or hold any security, cryptocurrency, or other financial instrument.
-3. **You should consult with a qualified financial advisor before making any investment decisions.**
-4. The Company is not registered as an investment advisor, broker-dealer, or similar regulated entity in any jurisdiction.
-5. Past performance does not guarantee future results. All investments carry risk, including potential loss of principal.
-6. **You acknowledge that all investment decisions and their consequences are solely your responsibility.**
+1. The Service is provided using third-party AI APIs and cloud infrastructure, including OpenAI, Anthropic, and Google.
+2. The Company is **not affiliated with, sponsored by, or endorsed by** these third parties. The in-app AI characters (Gee, Clo, Gem) are original characters created by the Company. All trademarks and names belong to their respective owners.
+3. The Company is not liable, absent willful misconduct or gross negligence, for service limitations caused by outages, policy changes, or delays of external AI/infrastructure services.
 
-## 6. Subscription Plans and Fees
+## Article 7 (Membership)
 
-### 6.1 Plans
+1. Registration is completed via Google or Apple account authentication.
+2. **Children under the age of 14 may not register.**
+3. The Company may refuse registration or later terminate the agreement if the user provides false information, uses another's identity, or violates applicable law or these Terms.
 
-- **Free**: $0/month. 3 AI debates per day, 150-character question limit.
-- **Pro**: $14.99/month. 50 AI debates per day, 1,000-character questions, free debate participation, portfolio integration.
-- **Premium**: $49.99/month. 50 AI debates per day, unlimited question length, 10 premium care features.
+## Article 8 (Fees and Plans)
 
-Guest users may try 1 AI debate per day without registration.
+1. The Service consists of a free plan (Free) and paid plans (Pro, Premium).
+2. **Usage limits per plan are based on monthly usage (tokens)** and can be viewed via the in-app usage gauge; remaining usage renews monthly. Question input length varies by plan (Free/non-member 150 characters, Pro 1,000, Premium unlimited).
+3. **Fees follow the amount displayed on the in-app checkout and on each store (App Store / Google Play).** Prices vary by country, currency, and promotion, and **may change at the Company's or the store's discretion.** Changes are announced in advance under Article 3, and the previous price applies for the remaining term of an already-paid subscription.
+4. Paid subscriptions auto-renew **monthly or annually** from the payment date and are charged to the same payment method unless canceled at least 24 hours before renewal. Payments are processed through the App Store or Google Play in-app purchase systems.
+5. **Before payment, the checkout screen discloses the actual amount charged, the subscription term, auto-renewal, how to cancel, and the refund basis.**
 
-### 6.2 Billing
+## Article 9 (Cancellation and Refunds)
 
-1. Subscriptions are billed monthly via Apple App Store or Google Play Store in-app purchases.
-2. Payment will be charged to your Apple ID or Google Play account at confirmation of purchase.
-3. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
-4. The renewal charge is at the same price unless we provide notice of changes in advance.
+**1. Cancellation (stopping auto-renewal)**
 
-### 6.3 Cancellation
+Users may cancel at any time via the subscription management menu of the Apple App Store or Google Play Store. Auto-renewal stops from the next billing date, and **the already-paid period remains fully usable until expiry.** Cancellation is not the same as a refund.
 
-1. You may cancel your subscription at any time through your Apple App Store or Google Play Store account settings.
-2. Cancellation takes effect at the end of the current billing period.
-3. Already-paid amounts are not refunded except as required by applicable law or each store's refund policy.
+**2. Refund basis**
 
-### 6.4 Refunds
+> **Refund = amount actually paid (incl. VAT) × (remaining subscription time ÷ total subscription time)**
 
-1. Refunds are governed by the policies of Apple App Store or Google Play Store, as applicable.
-2. The Company does not directly process payments and has limited refund authority.
-3. For billing disputes or fraud, contact sci.nfix@gmail.com for review.
+- **Store commission is not deducted from the user.**
+- **No cancellation penalty or handling fee is charged.**
+- The basis is **the amount the user actually paid**, not list price (discounted price applies where a discount was used).
+- Where required by law, withdrawal is available **within 7 days** of payment if the content has not been used.
 
-### 6.5 Changes to Pricing
+**3. Who decides — this differs by store**
 
-We may change subscription prices or features with at least 30 days' advance notice. Existing subscriptions continue at the original price until the next renewal.
+| | Google Play (Android) | App Store (iOS) |
+|---|---|---|
+| Request | In-app or Google Play | In-app or Apple |
+| **Amount & approval** | The Company requests a refund on the basis above; **Google Play computes the prorated amount** | 🔴 **Apple decides alone** |
 
-## 7. User Conduct
+**Notice to iOS users.** For App Store subscriptions, **Apple alone decides whether to approve a refund and for how much**, under its own policy. The Company cannot execute or guarantee it. The Company supplies the information Apple requests for its review (such as usage period) and adjusts entitlements according to Apple's decision.
 
-You agree NOT to:
+**4. When entitlements change**
 
-1. Provide false or misleading information during registration
-2. Use the Service for any illegal purpose or in violation of any laws
-3. Impersonate any person or entity
-4. Reverse engineer, decompile, or attempt to extract source code from the Service
-5. Use automated means (bots, scrapers, crawlers) to access the Service
-6. Interfere with or disrupt the Service or servers
-7. Redistribute, resell, or commercially exploit AI Debate outputs without authorization
-8. Upload viruses, malware, or other malicious code
-9. Harass, threaten, or harm other users
-10. Violate any intellectual property rights
+- Android: the plan reverts to Free **after the store refund is confirmed complete.**
+- iOS: **paid entitlements remain in place until Apple's approval is confirmed.** We do not revoke access before approval.
 
-## 8. Intellectual Property
+**5. Timing and amount differences**
 
-1. All content, features, and functionality of the Service (including text, graphics, logos, code, and software) are owned by NFIX or its licensors and are protected by international copyright, trademark, and other intellectual property laws.
-2. The Company grants you a limited, non-exclusive, non-transferable, revocable license to access and use the Service for personal, non-commercial purposes.
-3. AI-generated responses remain the property of the Company. You may use them for personal, non-commercial purposes but may not redistribute them commercially.
+- Processing time follows each store's and payment provider's policy; the Company does not guarantee a timeframe.
+- Refunds are processed **in the currency the user paid in.** The amount credited may differ from the amount charged depending on the card issuer's conversion timing and fees.
+- Any amount shown in the app is an **estimate**; **the store determines the final amount.**
 
-## 9. Privacy
+**6. Contact**
 
-Your use of the Service is also governed by our Privacy Policy, which describes how we collect, use, and protect your information. Please review the Privacy Policy at the link provided within the Service.
+Payment-related fraud or inquiries may be submitted to sci.nfix@gmail.com.
 
-## 10. Third-Party Services
+## Article 10 (Account and Termination)
 
-The Service integrates with third-party AI providers (OpenAI, Anthropic, Google) and authentication providers (Apple, Google). Your use of these services is subject to their respective terms and privacy policies. The Company is not responsible for the practices of these third parties.
+1. Users may permanently delete their account and all data at any time via the app's **[Account] tab → "Delete account."** Deleted data is not recoverable except where retention is required by law.
+2. Even if the account is deleted during a paid subscription, auto-renewing subscriptions must be separately canceled in the respective store.
 
-## 11. Disclaimers and Limitation of Liability
+## Article 11 (User Obligations)
 
-### 11.1 "AS IS" Basis
+Users must not:
+- Redistribute or commercially exploit AI debate results without authorization
+- Access the Service via automated means (bots, scrapers)
+- Infringe third-party rights such as copyright or reputation
+- Interfere with the normal operation of the Service
 
-THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+## Article 12 (Company Obligations)
 
-### 11.2 No Guarantees
+The Company complies with applicable law and these Terms, strives to provide a stable Service, protects user personal information per its Privacy Policy, and endeavors to handle legitimate opinions and complaints.
 
-The Company does not warrant that:
-- The Service will be uninterrupted, error-free, or secure
-- AI-generated content will be accurate, complete, or reliable
-- Investment outcomes based on Service information will be favorable
+## Article 13 (Intellectual Property)
 
-### 11.3 Limitation of Liability
+1. Copyright and other IP in all content within the Service belong to the Company or the rightful owner.
+2. Rights to AI-generated answers belong to the Company, but users may use them for personal, non-commercial purposes. Unauthorized commercial use is prohibited.
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
+## Article 14 (Restrictions on Use)
 
-1. THE COMPANY SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR INVESTMENT LOSSES, ARISING FROM YOUR USE OF THE SERVICE.
+If a user violates these Terms or interferes with the Service's operation, the Company may issue warnings or impose temporary or permanent suspension, providing the user an opportunity to appeal.
 
-2. THE COMPANY'S TOTAL LIABILITY FOR ANY CLAIM RELATED TO THE SERVICE SHALL NOT EXCEED THE AMOUNT YOU PAID TO THE COMPANY IN THE 12 MONTHS PRECEDING THE CLAIM, OR USD 50, WHICHEVER IS GREATER.
+## Article 15 (Limitation of Liability)
 
-3. THE COMPANY IS NOT LIABLE FOR INVESTMENT DECISIONS YOU MAKE OR THEIR FINANCIAL OUTCOMES.
+1. The Company does not warrant the accuracy, reliability, timeliness, or suitability of AI-provided investment information and is not liable for investment decisions or resulting damages based on such information.
+2. The Company is not liable for service interruptions or errors due to force majeure, including natural disasters and outages of external AI/infrastructure services.
 
-### 11.4 Force Majeure
+## Article 16 (Dispute Resolution and Jurisdiction)
 
-The Company is not liable for failure to perform due to causes beyond its reasonable control, including natural disasters, war, terrorism, government action, internet outages, or third-party service failures (e.g., OpenAI, Anthropic, Google API outages).
+Disputes shall first be resolved through mutual consultation. Failing that, the court with jurisdiction over the Company's principal place of business shall be the court of first instance, and the laws of the Republic of Korea shall govern.
 
-## 12. Indemnification
+## Article 17 (Overseas Users)
 
-You agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, and agents from any claims, damages, losses, or expenses (including reasonable attorneys' fees) arising from:
-
-1. Your use of the Service
-2. Your violation of these Terms
-3. Your violation of any rights of another party
-4. Your investment decisions or their consequences
-
-## 13. Termination
-
-1. You may terminate your account at any time through the in-app account settings.
-2. The Company may suspend or terminate your access to the Service if you violate these Terms.
-3. Upon termination, your right to use the Service ceases immediately. Data retention is governed by our Privacy Policy.
-
-## 14. Changes to These Terms
-
-We may update these Terms from time to time. We will notify you of material changes through in-app notice at least 30 days before the changes take effect. Continued use of the Service after changes constitutes acceptance.
-
-## 15. Governing Law and Dispute Resolution
-
-### 15.1 Governing Law
-
-These Terms are governed by the laws of the Republic of Korea, without regard to conflict of law principles.
-
-### 15.2 Dispute Resolution
-
-1. Any disputes arising from these Terms or the Service shall first be attempted to be resolved through good-faith negotiation.
-2. If negotiation fails, disputes shall be submitted to the exclusive jurisdiction of the courts in Daejeon, Republic of Korea, where the Company's principal place of business is located.
-3. **Notwithstanding the above**, users in jurisdictions where consumer protection laws grant additional rights may pursue claims in their local courts where mandated by such laws.
-
-### 15.3 Class Action Waiver (where permitted)
-
-To the extent permitted by applicable law, you agree that disputes will be resolved on an individual basis, not as a class action.
-
-## 16. Severability
-
-If any provision of these Terms is found to be unenforceable, the remaining provisions shall remain in full force and effect.
-
-## 17. Entire Agreement
-
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and the Company regarding the Service.
-
-## 18. Language
-
-These Terms are provided in English and Korean. In case of any inconsistency, the Korean version prevails for users residing in Korea, and the English version prevails for users residing elsewhere.
-
-## 19. Contact
-
-For questions about these Terms, please contact:
-
-- **Company**: NFIX
-- **Representative**: In Cheol Song
-- **Business Registration No.**: 604-19-13861
-- **Address**: 5F 576, 36 Banseok-ro, Yuseong-gu, Daejeon, Republic of Korea
-- **Phone**: +82-10-5450-5944
-- **Email**: sci.nfix@gmail.com
+These Terms apply equally to overseas users, except for mandatory provisions of the user's country of residence. In case of discrepancy between the Korean and translated versions, the Korean version prevails.
 
 ---
 
-## Appendix
+## Addendum
 
-These Terms become effective on May 8, 2026.
+- These Terms take effect on July 11, 2026.
+- Last amended: August 31, 2026
+
+## Business Information
+
+- Company: NFIX
+- Representative: In Cheol Song
+- Business Registration No.: 604-19-13861
+- Address: 576, 5F, 36 Banseok-ro, Yuseong-gu, Daejeon, Republic of Korea
+- Contact: +82-10-5450-5944
+- Email: sci.nfix@gmail.com
