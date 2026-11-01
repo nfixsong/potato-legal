@@ -63,6 +63,7 @@ These Terms govern the rights, obligations, and responsibilities between NFIX ("
 3. **Fees follow the amount displayed on the in-app checkout and on each store (App Store / Google Play).** Prices vary by country, currency, and promotion, and **may change at the Company's or the store's discretion.** Changes are announced in advance under Article 3, and the previous price applies for the remaining term of an already-paid subscription.
 4. Paid subscriptions auto-renew **monthly or annually** from the payment date and are charged to the same payment method unless canceled at least 24 hours before renewal. Payments are processed through the App Store or Google Play in-app purchase systems.
 5. **Before payment, the checkout screen discloses the actual amount charged, the subscription term, auto-renewal, how to cancel, and the refund basis.**
+6. **Launch event (1 extra month on annual)**: Members who buy an annual subscription during the event period and **use it for 12 months without a refund** receive **1 additional month** at the same tier. This is limited to once per member and is not provided if any refund (including a partial refund) occurred during those 12 months or the subscription was changed to another product. If the subscription auto-renewed, the extra month is applied after the renewed term ends. No charge applies to the extra month, and the event period is shown on the in-app checkout screen.
 
 ## Article 9 (Cancellation and Refunds)
 
