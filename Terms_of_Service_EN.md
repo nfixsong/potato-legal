@@ -1,6 +1,6 @@
 # Potato — Terms of Service
 
-**Last updated: August 31, 2026**
+**Last updated: November 1, 2026**
 **Effective date: July 11, 2026**
 
 ---
@@ -106,7 +106,7 @@ Payment-related fraud or inquiries may be submitted to sci.nfix@gmail.com.
 ## Article 10 (Account and Termination)
 
 1. Users may permanently delete their account and all data at any time via the app's **[Account] tab → "Delete account."** Deleted data is not recoverable except where retention is required by law.
-2. Even if the account is deleted during a paid subscription, auto-renewing subscriptions must be separately canceled in the respective store.
+2. Even if the account is deleted during a paid subscription, auto-renewing subscriptions may need to be canceled separately in the respective store.
 
 ## Article 11 (User Obligations)
 
@@ -147,7 +147,7 @@ These Terms apply equally to overseas users, except for mandatory provisions of 
 ## Addendum
 
 - These Terms take effect on July 11, 2026.
-- Last amended: August 31, 2026
+- Last amended: November 1, 2026
 
 ## Business Information
 
